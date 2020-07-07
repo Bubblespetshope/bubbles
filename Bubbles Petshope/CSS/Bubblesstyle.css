@@ -1,0 +1,33 @@
+body
+{
+    color: #FFFFFF;
+    background-color: #000000;
+    margin-left: 5%;
+    word-spacing: 0;
+    position: relative;
+}
+.Header
+{
+    font-family: Edwardian Script ITC;
+    margin-top: 0%;
+    float: left;
+    font-size: 120px;
+}
+
+
+.contact
+{
+    font-size: 30px;
+    padding-top: 30%;
+    padding-right: 0%;
+    font-family: Cambria Math;
+    float: left;
+    
+}
+
+.image1
+{
+    margin-top: 0%;
+    float: right;
+    margin-right: 2%;
+}
